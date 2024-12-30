@@ -1,6 +1,6 @@
 import os,time
 from colorama import Fore,Back,Style
-def tampilkan_menu():A='=';os.system('cls'if os.name=='nt'else'clear');print(Fore.CYAN+A*40);print(Fore.GREEN+'   === MENU REN9999 DDOS ===');print(Fore.CYAN+A*40);print(Fore.YELLOW+'1. '+Fore.MAGENTA+'DDOS_V1');print(Fore.YELLOW+'2. '+Fore.MAGENTA+'DDOS_V2');print(Fore.YELLOW+'3. '+Fore.MAGENTA+'DDOS_V3');print(Fore.YELLOW+'4. '+Fore.MAGENTA+'DDOS_V2 (Shell Script)');print(Fore.RED+'5. '+Fore.WHITE+'Keluar');print(Fore.CYAN+A*40)
+def tampilkan_menu():A='=';os.system('cls'if os.name=='nt'else'clear');print(Fore.CYAN+A*40);print(Fore.GREEN+'   === MENU REN9999 DDOS ===');print(Fore.CYAN+A*40);print(Fore.YELLOW+'1. '+Fore.MAGENTA+'DDOS_V1');print(Fore.YELLOW+'2. '+Fore.MAGENTA+'DDOS_V2');print(Fore.YELLOW+'3. '+Fore.MAGENTA+'DDOS_V3');print(Fore.YELLOW+'4. '+Fore.MAGENTA+'test');print(Fore.RED+'5. '+Fore.WHITE+'Keluar');print(Fore.CYAN+A*40)
 def efek_loading():
 	A=['[     ]','[=    ]','[==   ]','[===  ]','[==== ]','[===== ]','[======  ]','[======= ]','[========]']
 	for B in A:print(Fore.WHITE+B,end='\r');time.sleep(.2)
