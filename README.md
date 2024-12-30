@@ -1,6 +1,6 @@
 # UPDATE TERBARU REN_DDOSV5 ~ by ren9999
 
-# walaupun tampilannya kurang bagus tapi minimal jangan nge bagot kau suki🗿🗿🗿🗿
+# walaupun tampilannya kurang bagus tapi minimal jangan nge bacot kau suki🗿🗿🗿🗿
 
 
 Berikut adalah panduan langkah demi langkah untuk menggunakan repositori ren_ddosv5 yang telah Anda unggah di GitHub:
@@ -85,28 +85,3 @@ Pastikan file skrip yang dipilih (ddosv1_op.py, ddosv2_op.py, ddosv3_op.py, atau
 ```
 YANG REKODE GW TAMPOL PALA LU 🗿
 ```
-# di bawah ini cuman iklan aja oke bro 🗿
-
-# Contoh Skrip
-
-# Contoh Menampilkan Skrip
-
-Untuk menyertakan skrip eksternal di dalam halaman HTML, gunakan kode berikut:
-
-```html
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menampilkan Skrip</title>
-</head>
-<body>
-
-    <h1>Contoh Menampilkan Skrip</h1>
-    
-    <!-- Menyertakan script eksternal -->
-    <script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/79R3QIALJT0KE"></script>
-
-</body>
-</html>
