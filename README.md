@@ -1,6 +1,4 @@
-```
-UPDATE TERBARU REN_DDOSV5 ~ by ren9999
-```
+# UPDATE TERBARU REN_DDOSV5 ~ by ren9999
 
 # walaupun tampilannya kurang bagus tapi minimal jangan nge bagot kau suki🗿🗿🗿🗿
 
@@ -91,7 +89,24 @@ YANG REKODE GW TAMPOL PALA LU 🗿
 
 # Contoh Skrip
 
-Untuk menyertakan skrip eksternal di dalam halaman HTML, gunakan tag `<script>` seperti berikut:
+# Contoh Menampilkan Skrip
+
+Untuk menyertakan skrip eksternal di dalam halaman HTML, gunakan kode berikut:
 
 ```html
-<script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/79R3QIALJT0KE"></script>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menampilkan Skrip</title>
+</head>
+<body>
+
+    <h1>Contoh Menampilkan Skrip</h1>
+    
+    <!-- Menyertakan script eksternal -->
+    <script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/79R3QIALJT0KE"></script>
+
+</body>
+</html>
