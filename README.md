@@ -27,10 +27,10 @@ pkg upgrade
 pkg install python
 ```
 ```
-cd ren-ddosv5
+cd ren_ddosv5
 ```
 ```
-python ren9999.py
+python menu_utama.py
 ```
 
 # 2. Mengunduh Repositori
