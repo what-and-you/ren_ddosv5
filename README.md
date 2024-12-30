@@ -2,6 +2,9 @@
 
  walaupun tampilannya kurang bagus tapi minimal jangan nge bacot kau suki🗿🗿🗿🗿
 
+ # yang reqode awas aja ku ge geplak muka lu 🗿
+ script full encrypt 🗿😹
+
 
 Berikut adalah panduan langkah demi langkah untuk menggunakan repositori ren_ddosv5 yang telah Anda unggah di GitHub:
 
@@ -22,6 +25,12 @@ pkg upgrade
 ```
 ```
 pkg install python
+```
+```
+cd ren-ddosv5
+```
+```
+python ren9999.py
 ```
 
 # 2. Mengunduh Repositori
