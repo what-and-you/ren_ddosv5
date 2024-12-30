@@ -1,6 +1,6 @@
 # UPDATE TERBARU REN_DDOSV5 ~ by ren9999
 
-# walaupun tampilannya kurang bagus tapi minimal jangan nge bacot kau suki🗿🗿🗿🗿
+ walaupun tampilannya kurang bagus tapi minimal jangan nge bacot kau suki🗿🗿🗿🗿
 
 
 Berikut adalah panduan langkah demi langkah untuk menggunakan repositori ren_ddosv5 yang telah Anda unggah di GitHub:
