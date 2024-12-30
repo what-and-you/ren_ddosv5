@@ -89,19 +89,9 @@ YANG REKODE GW TAMPOL PALA LU 🗿
 ```
 # di bawah ini cuman iklan aja oke bro 🗿
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menampilkan Skrip</title>
-</head>
-<body>
+# Contoh Skrip
 
-    <h1>Contoh Menampilkan Skrip</h1>
-    
-    <!-- Menyertakan script eksternal -->
-    <script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/79R3QIALJT0KE"></script>
+Untuk menyertakan skrip eksternal di dalam halaman HTML, gunakan tag `<script>` seperti berikut:
 
-</body>
-</html>
+```html
+<script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/79R3QIALJT0KE"></script>
